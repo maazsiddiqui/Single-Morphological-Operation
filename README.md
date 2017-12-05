@@ -1,2 +1,2 @@
-# Single-Morphological-Operation
+# Single Morphological Operation
 Image processing - Single Morphological Operation
